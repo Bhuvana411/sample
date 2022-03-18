@@ -1,0 +1,2 @@
+welcome to devopps lab
+this is for creating and merging branches in github using git commands
